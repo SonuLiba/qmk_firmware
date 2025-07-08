@@ -2,4 +2,11 @@ AUDIO_SUPPORTED = no        # Audio is not supported
 
 POINTING_DEVICE_DRIVER = pmw3360
 
-SERIAL_DRIVER = vendor
+SERIAL_DRIVER = pro_micro
+
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+
+UNICODE_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+TAP_DANCE_ENABLE = yes
